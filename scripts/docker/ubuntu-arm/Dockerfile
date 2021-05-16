@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190515
 WORKDIR /build
 
 # install tools and dependencies
